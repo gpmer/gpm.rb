@@ -1,0 +1,18 @@
+language: ruby
+sudo: false
+
+rvm:
+  - 2.0.0-p247
+
+os:
+  - linux
+
+env:
+  - "RUBY_ENV=DEVELOPMENT"
+
+before_script:
+  - gem update --system
+  - gem install commander
+
+script:
+  - echo "test success!"
