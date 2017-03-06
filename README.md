@@ -1,5 +1,5 @@
 # gpmx.ruby 
-[![Build Status](https://travis-ci.org/gpmer/gpm.ruby.svg?branch=master)](https://travis-ci.org/axetroy/gpm.ruby)
+[![Build Status](https://travis-ci.org/gpmer/gpm.ruby.svg?branch=master)](https://travis-ci.org/gpmer/gpm.ruby)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/ruby-%3E=2.0.0-blue.svg?style=flat-square)
 
